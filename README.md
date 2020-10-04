@@ -7,7 +7,7 @@ Upon entry to the program, you will be prompted for the following inputs:
 3. Header file path (optional if data file's first row contains header names)
 4. K value
 Notes: Be sure to only include one empty line at the end of each data file.
-# Functionality and Data Structures
+## Functionality and Data Structures
 1. Transform the file lines into a workable dataframes and convert the appropriate strings to numerical values.
 2. Preprocess the datasets by normalizing the values.
 3. Use a min heap to store Euclidian distances for each test set
